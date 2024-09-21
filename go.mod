@@ -1,4 +1,4 @@
-module github.com/williamchew85/digest
+github.com/williamchew85/digest
 
 go 1.20
 
